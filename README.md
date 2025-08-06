@@ -42,10 +42,10 @@
 
 ### 🔗 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img alt="LinkedIn" src="https://www.linkedin.com/in/devansh-panchal-666411278/">
+  <a href="https://www.linkedin.com/in/devansh-panchal-666411278/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:panchaldevanshketan@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
